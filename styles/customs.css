@@ -1,0 +1,16 @@
+
+.news-banner {
+      background-image: url('/img/HeroBannerNews.jpg');
+      background-size: cover;
+      background-position: center;
+}
+
+.service-banner {
+      background-image: url('/img/ServiceInnerBanner.jpg');
+      background-size: cover;
+      background-position: center;
+}
+
+.custom-light {
+      mix-blend-mode: hard-light;
+}
